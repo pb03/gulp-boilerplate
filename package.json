@@ -1,7 +1,7 @@
 {
   "name": "gulp-biolerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gulp biolerplate - including SCSS and uglify JS ES6 support",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,14 +9,12 @@
   "author": "Prasanjit Singh",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.15.0",
+    "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
-    "gulp-clean-css": "^2.0.12",
-    "gulp-concat": "^2.6.0",
-    "gulp-sass": "^2.3.2",
-    "gulp-svg-sprites": "^4.0.2",
-    "gulp-svgmin": "^1.2.2",
-    "gulp-uglify": "^2.0.0"
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify-es": "^1.0.1"
   }
 }
